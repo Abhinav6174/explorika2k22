@@ -12,7 +12,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM8FaD9lyA4wEQfvsgGthv1U-Ql1Y_vE0TvdyNuE1MdNW10iiQSPl_kg0TEymSIcFR2JgBIWuWckIZX9wG2Qzpp2YKp1REbsAz4XUeY4nk8A8f4D6R949UDLtGIO12hgJowBa-OafNy4cUzIzzbs-fEtEKhQkOr9t1LtCWUKFHlkTdsEe2SAA2JUGX/s16000/image_processing20210528-29044-wrqyaj.gif");
+    background-image: url('https://1.bp.blogspot.com/-TEafUuqpP2g/YTIOvr_T2lI/AAAAAAAA7Fw/rJRYqb9iqZc5WbBtIdIF_OrGYBr5gvmAgCLcBGAsYHQ/s16000/bg.png');
+    /*background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM8FaD9lyA4wEQfvsgGthv1U-Ql1Y_vE0TvdyNuE1MdNW10iiQSPl_kg0TEymSIcFR2JgBIWuWckIZX9wG2Qzpp2YKp1REbsAz4XUeY4nk8A8f4D6R949UDLtGIO12hgJowBa-OafNy4cUzIzzbs-fEtEKhQkOr9t1LtCWUKFHlkTdsEe2SAA2JUGX/s16000/image_processing20210528-29044-wrqyaj.gif");*/
 }
 
 ::-webkit-scrollbar {
