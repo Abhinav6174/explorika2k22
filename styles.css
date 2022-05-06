@@ -94,11 +94,12 @@ body {
     text-align: left;
 }
 
-.cards-container-coordinator {
+
+/*.cards-container-coordinator {
     font-size: 18px;
     font-weight: bold;
     text-align: right;
-}
+}*/
 
 .cards-container-registration {
     font-size: 18px;
